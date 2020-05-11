@@ -1,1 +1,2 @@
-# Building-a-Simple-Portfolio-Website-final-
+# gallery-starter
+This is starter code for assignment seven of Intermediate Web Design
